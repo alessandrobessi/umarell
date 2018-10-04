@@ -1,0 +1,2 @@
+2018-10-03 20:46:06,154 | DEBUG | slow_function: 171.001 ms
+2018-10-03 20:46:06,209 | DEBUG | fast_function: 38.958 ms
